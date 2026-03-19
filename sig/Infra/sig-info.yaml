@@ -1,0 +1,9 @@
+name: Infra
+  description: ""
+  mailing_list: ""
+  maintainers:
+    - gitee_id: georgecao
+      gitcode_id: georgecao
+      name: 曹志
+      organization: huawei
+      email: george.cao@huawei.com
