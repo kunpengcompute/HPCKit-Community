@@ -1,0 +1,6 @@
+name: SIC-community
+type: public
+description: "SIC-community"
+branches:
+  - name: main
+    type: protected
