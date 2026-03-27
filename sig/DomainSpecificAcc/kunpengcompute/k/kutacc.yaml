@@ -1,6 +1,6 @@
-name: SIC-community
+name: kutacc
 type: public
-description: "SIC-community"
+description: ""
 branches:
   - name: main
     type: protected

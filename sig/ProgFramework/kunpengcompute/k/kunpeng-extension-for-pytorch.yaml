@@ -1,0 +1,6 @@
+name: kunpeng-extension-for-pytorch
+type: public
+description: ""
+branches:
+  - name: main
+    type: protected

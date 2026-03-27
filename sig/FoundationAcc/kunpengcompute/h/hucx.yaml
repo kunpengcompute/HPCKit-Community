@@ -1,0 +1,16 @@
+name: hucx
+type: public
+description: ""
+branches:
+  - name: v26.1.x
+    type: protected
+  - name: v26.0.x
+    type: protected
+  - name: v25.2.x
+    type: protected
+  - name: v25.0.x
+    type: protected
+  - name: v25.1.x
+    type: protected
+  - name: v5.x
+    type: protected

@@ -1,0 +1,6 @@
+name: HPCKit-Community
+type: public
+description: "HPCKit社区配置仓库"
+branches:
+  - name: main
+    type: protected
