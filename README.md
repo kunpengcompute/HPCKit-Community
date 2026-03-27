@@ -42,26 +42,26 @@
 
 HPCKit 社区采用分层协作的治理模式，当前架构主要包括以下组织：
 
-- [技术指导委员会（TSC）]() —— 负责技术愿景与方向决策
-- [特别兴趣小组（SIG）]() —— 专注特定技术领域或公共能力建设
+- [技术指导委员会（TSC）](governance/TSC/README.md) —— 负责技术愿景与方向决策
+- [特别兴趣小组（SIG）](sigs) —— 专注特定技术领域或公共能力建设
 
 ### 2.2 社区治理章程
 
 如需了解社区治理章程，请参阅以下文档：
 
-- [技术指导委员会（TSC）治理章程]()
-- [特别兴趣小组（SIG）治理章程]()
-- [社区角色定义及晋升机制]()
+- [技术指导委员会（TSC）治理章程](governance/tsc-governance.md)
+- [特别兴趣小组（SIG）治理章程](governance/sig-governance.md)
+- [社区角色定义及晋升机制](governance/role-definition-and-promotion-mechanism.md)
 
 ## 3. 用户行为准则
 
-参与社区贡献前，请仔细阅读并遵守社区[用户行为准则]()。您在 HPCKit 社区的所有活动（包括但不限于发表评论、提交 Issue/PR/文档等）均需遵循此准则。
+参与社区贡献前，请仔细阅读并遵守社区[用户行为准则](contributor/code-of-conduct.md)。您在 HPCKit 社区的所有活动（包括但不限于发表评论、提交 Issue/PR/文档等）均需遵循此准则。
 
 ## 4. 参与贡献
 
 - [签署CLA]()：签署个人/法人 CLA。
-- [基础贡献]()：包含参与社区会议、社区邮件讨论、提交 Issue 、处理 Issue 任务、提交PR等。
-- [进阶贡献]()：包含新建 SIG、成为核心贡献者、组织会议、新建仓库、引入开源软件、发布新版本或新仓库等。
+- [基础贡献](contributor/basic-contribution.md)：包含参与社区会议、社区邮件讨论、提交 Issue 、处理 Issue 任务、提交PR等。
+- [进阶贡献](contributor/advanced-contribution.md)：包含新建 SIG、成为核心贡献者、组织会议、新建仓库、引入开源软件、发布新版本或新仓库等。
 
 ## 5. 联系我们
 
