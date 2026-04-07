@@ -1,5 +1,14 @@
 name: ProgFramework
 description: "提供基于Kunpeng的面向HPC/AI4S各领域的加速组件"
 mailing_list: ""
-maintainers: []
-repositories: []
+maintainers:
+  - atomgit_id: chenzheng1030
+    name: 陈正
+    organization: huawei
+  - atomgit_id: zycNozomi
+    name: 朱延超
+    organization: huawei
+repositories:
+  - repo:
+      - kunpengcompute/kunpeng-extension-for-pytorch
+    committers: []

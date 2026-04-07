@@ -1,5 +1,19 @@
 name: Security
 description: "致力于提升社区的网络安全质量与竞争力，并持续做好应急响应"
 mailing_list: ""
-maintainers: []
-repositories: []
+maintainers: 
+  - atomgit_id: Chenlili517
+    name: 陈丽莉
+    organization: huawei
+  - atomgit_id: Shunrei
+    name: 张春丽
+    organization: huawei
+  - atomgit_id: Endfromhere
+    name: 陈启军
+    organization: huawei
+  - atomgit_id: flappy-bugger
+    name: 张越
+    organization: huawei
+repositories:
+  - repo: []
+    committers: []

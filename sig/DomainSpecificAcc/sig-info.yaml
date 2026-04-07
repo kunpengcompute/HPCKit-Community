@@ -1,5 +1,19 @@
 name: DomainSpecificAcc
 description: "提供面向HPC/AI4S各领域的加速组件"
 mailing_list: ""
-maintainers: []
-repositories: []
+maintainers:
+  - atomgit_id: wangkai2u
+    name: 王楷
+    organization: huawei
+  - atomgit_id: zqrer
+    name: 张倩茹
+    organization: huawei
+  - atomgit_id: tlzzzz
+    name: 赵天伦
+    organization: huawei
+repositories:
+  - repo:
+      - kunpengcompute/kudnn
+      - kunpengcompute/kuqcd
+      - kunpengcompute/kutacc
+    committers: []

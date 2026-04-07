@@ -1,5 +1,20 @@
 name: FoundationAcc
 description: "提供高性能计算基础加速组件"
 mailing_list: ""
-maintainers: []
-repositories: []
+maintainers:
+  - atomgit_id: liujianguo_hpc
+    name: 刘建国
+    organization: huawei
+  - atomgit_id: zycNozomi
+    name: 朱延超
+    organization: huawei
+  - atomgit_id: frontwing
+    name: 祝佳
+    organization: huawei
+repositories:
+  - repo:
+      - kunpengcompute/hmpi
+      - kunpengcompute/hucx
+      - kunpengcompute/kupl
+      - kunpengcompute/xucg
+    committers: []
