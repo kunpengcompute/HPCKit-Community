@@ -10,8 +10,8 @@
 
 ## 3. 提交Issue/处理Issue任务
 
-HPCKit 社区基于 GitCode 的 Issue 管理功能，完整记录每个开发者 Issue 的处理流程。您可以对 Issue 进行查找、创建、评论、处理等操作。具体操作步骤请参阅：[Issue 操作指南](contributor/issue-operation.md)。
+HPCKit 社区基于 GitCode 的 Issue 管理功能，完整记录每个开发者 Issue 的处理流程。您可以对 Issue 进行查找、创建、评论、处理等操作。具体操作步骤请参阅：[Issue 操作指南](issue-operation.md)。
 
 ## 4. 提交 PR
 
-参与 HPCKit 社区代码贡献时，提交 PR 前需完成开发环境准备，并仔细了解项目特定的开发规范和版权声明要求，确保您的贡献符合项目标准。具体操作步骤请参阅：[PR 操作指南](contributor/pull_request_operation.md)。
+参与 HPCKit 社区代码贡献时，提交 PR 前需完成开发环境准备，并仔细了解项目特定的开发规范和版权声明要求，确保您的贡献符合项目标准。具体操作步骤请参阅：[PR 操作指南](pull_request_operation.md)。
