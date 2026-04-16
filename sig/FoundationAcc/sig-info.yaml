@@ -15,6 +15,33 @@ repositories:
   - repo:
       - kunpengcompute/hmpi
       - kunpengcompute/hucx
-      - kunpengcompute/kupl
       - kunpengcompute/xucg
-    committers: []
+      - kunpengcompute/kupl
+      - kunpengcompute/hpckit-sample
+    committers:
+      - atomgit_id: liujianguo_hpc
+        name: 刘建国
+        organization: huawei
+        email: liujianguo14@huawei.com
+      - atomgit_id: frontwing
+        name: 祝佳
+        organization: huawei
+        email: zhujia14@huawei.com
+  - repo:
+      - kunpengcompute/kupl
+    committers:
+      - atomgit_id: liujianguo_hpc
+        name: 刘建国
+        organization: huawei
+        email: liujianguo14@huawei.com
+      - atomgit_id: zycNozomi
+        name: 朱延超
+        organization: huawei
+        email: zhuyanchao1@huawei.com
+  - repo:
+      - kunpengcompute/hpckit-sample
+    committers:
+      - atomgit_id: liujianguo_hpc
+        name: 刘建国
+        organization: huawei
+        email: liujianguo14@huawei.com

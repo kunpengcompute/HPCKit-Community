@@ -11,4 +11,12 @@ maintainers:
 repositories:
   - repo:
       - kunpengcompute/kunpeng-extension-for-pytorch
-    committers: []
+    committers:
+      - atomgit_id: liujianguo_hpc
+        name: 刘建国
+        organization: huawei
+        email: liujianguo14@huawei.com
+      - atomgit_id: zycNozomi
+        name: 朱延超
+        organization: huawei
+        email: zhuyanchao1@huawei.com

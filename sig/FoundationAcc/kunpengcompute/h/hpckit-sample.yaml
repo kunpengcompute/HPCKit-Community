@@ -1,0 +1,6 @@
+name: hpckit-sample
+type: public
+description: ""
+branches:
+	- name: main
+		type: protected

@@ -14,6 +14,30 @@ maintainers:
 repositories:
   - repo:
       - kunpengcompute/kudnn
+    committers:
+      - atomgit_id: liujianguo_hpc
+        name: 刘建国
+        organization: huawei
+        email: liujianguo14@huawei.com
+  - repo:
       - kunpengcompute/kuqcd
+    committers:
+      - atomgit_id: yqwanghw
+        name: 王雨祺
+        organization: huawei
+        email: wangyuqi47@huawei.com
+      - atomgit_id: liujianguo_hpc
+        name: 刘建国
+        organization: huawei
+        email: liujianguo14@huawei.com
+  - repo:
       - kunpengcompute/kutacc
-    committers: []
+    committers:
+      - atomgit_id: tlzzzz
+        name: 赵天伦
+        organization: huawei
+        email: zhaotianlun1@huawei.com
+      - atomgit_id: liujianguo_hpc
+        name: 刘建国
+        organization: huawei
+        email: liujianguo14@huawei.com
