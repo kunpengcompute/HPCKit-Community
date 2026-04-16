@@ -9,6 +9,7 @@ maintainers:
 repositories:
   - repo:
       - kunpengcompute/hpckit-community
+      - kunpengcompute/Infra
     committers:
       - atomgit_id: yao-xiaobai
         name: 姚孝添
@@ -18,3 +19,35 @@ repositories:
         name: 许广跃
         organization: huawei
         email: xuguangyue2@huawei.com
+      - atomgit_id: dingzhaohui
+        name: 丁肇辉
+        organization: huawei
+        email: dingzhaohui@huawei.com
+      - atomgit_id: lee_hw
+        name: 李思聪
+        organization: huawei
+        email: devin.lisicong@huawei.com
+      - atomgit_id: jsn1993
+        name: 蒋舜宁
+        organization: huawei
+        email: jiangshunning@huawei.com
+      - atomgit_id: chenzheng1030
+        name: 陈正
+        organization: huawei
+        email: chenzheng79@huawei.com
+      - atomgit_id: zqrer
+        name: 张倩茹
+        organization: huawei
+        email: zhangqianru10@huawei.com
+      - atomgit_id: fishm
+        name: 余晨
+        organization: huawei
+        email: yuchen37@huawei.com
+      - atomgit_id: suke2717
+        name: 苏克
+        organization: huawei
+        email: suke11@huawei.com
+      - atomgit_id: liujianguo_hpc
+        name: 刘建国
+        organization: huawei
+        email: liujianguo14@huawei.com
