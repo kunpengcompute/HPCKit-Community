@@ -41,3 +41,14 @@ repositories:
         name: 刘建国
         organization: huawei
         email: liujianguo14@huawei.com
+  - repo:
+      - kunpengcompute/DeepSeek-V3-Sample
+    committers:
+      - atomgit_id: dabingmaibing
+        name: 朱俊雄
+        organization: huawei
+        email: zhujunxiong@huawei.com
+      - atomgit_id: tlzzzz
+        name: 赵天伦
+        organization: huawei
+        email: zhaotianlun1@huawei.com

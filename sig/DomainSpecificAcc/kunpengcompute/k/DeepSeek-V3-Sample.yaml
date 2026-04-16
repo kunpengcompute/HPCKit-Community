@@ -1,0 +1,6 @@
+name: DeepSeek-V3-Sample
+type: public
+description: ""
+branches:
+  - name: main
+    type: protected
