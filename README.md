@@ -33,6 +33,11 @@
       <td>提供基于鲲鹏平台优化的编程框架。</td>
       <td><a href="https://atomgit.com/kunpengcompute/kunpeng-extension-for-pytorch">kunpeng-extension-for-pytorch</a></td>
     </tr>
+    <tr>
+      <td><div style="text-align: center;">示例代码</div></td>
+      <td>提供HPCKit最优编程示例代码。</td>
+      <td><a href="https://atomgit.com/kunpengcompute/hpckit-sample">hpckit-sample</a> <br> <a href="https://atomgit.com/kunpengcompute/DeepSeek-V3-Sample">DeepSeek-V3-Sample</a></td>
+    </tr>
   </tbody>
 </table>
 
