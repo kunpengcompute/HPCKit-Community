@@ -1,0 +1,6 @@
+name: osu-benchmark
+type: public
+description: ""
+branches:
+  - name: v7.5.1
+    type: protected
