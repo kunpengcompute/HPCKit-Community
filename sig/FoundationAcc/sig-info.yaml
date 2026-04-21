@@ -17,6 +17,7 @@ repositories:
       - kunpengcompute/hucx
       - kunpengcompute/xucg
       - kunpengcompute/osu-benchmark
+      - kunpengcompute/IMB-benchamrk
     committers:
       - atomgit_id: liujianguo_hpc
         name: 刘建国
