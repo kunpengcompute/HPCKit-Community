@@ -1,0 +1,13 @@
+name: AIAssisted
+description: "聚焦AI辅助研发，致力于将晦涩的代码转化为可复制的实战经验与框架，打造规范化、可持续的领域专家社区影响力生态"
+mailing_list: ""
+maintainers: 
+  - atomgit_id: jsn1993
+    name: 蒋舜宁
+    organization: huawei
+  - atomgit_id: zqrer
+    name: 张倩茹
+    organization: huawei
+repositories:
+  - repo: []
+    committers: []
