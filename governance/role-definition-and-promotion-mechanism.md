@@ -48,7 +48,7 @@
 
 #### 2.2.4 投票结果公告
 
-投票通过后，Maintainer将在HPCKit社区公告新晋升的Maintainer/Committer，并同步更新对应SIG Maintainer/Committer配置（详见：[sig-info.yaml文件指导说明](../sig/sig-info-guidance.md)）。
+投票通过后，Maintainer将在HPCKit社区公告新晋升的Maintainer/Committer，并同步更新对应SIG Maintainer/Committer配置（详见：[sig-info.yaml文件指导说明](../sigs/sig-info-guidance.md)）。
 
 ### 2.3 晋升技术指导委员会委员投票流程
 

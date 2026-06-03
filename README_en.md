@@ -48,7 +48,7 @@ Welcome to the HPCKit community! We are dedicated to providing the industry with
 The HPCKit community adopts a layered collaborative governance model as follows:
 
 - [Technical Steering Committee (TSC)](governance/TSC/README.md): responsible for technical vision and strategic decision-making.
-- [Special Interest Groups (SIGs)](sig): focused on specific technical domains or the development of common capabilities.
+- [Special Interest Groups (SIGs)](sigs): focused on specific technical domains or the development of common capabilities.
 
 ### 2.2 Community Governance Charter
 

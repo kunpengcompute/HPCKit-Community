@@ -2,7 +2,7 @@
 
 ## 1. 参与社区会议
 
-如需参加社区 TSC/SIG 等组织会议，请访问[社区会议看板](https://meeting.hpckit.osinfra.cn)获取详细信息。您可在对应会议白板上申报议题，具体操作步骤请参阅：[社区会议指南](https://atomgit.com/kunpengcompute/Infra/blob/main/docs/meeting/meeting.md#2-如何参与会议)。
+如需参加社区 TSC/SIG 等组织会议，请访问[社区会议看板](https://meeting.hpckit.osinfra.cn)获取详细信息。社区提供[会议材料模板](../templates/ppt_template.pptx)，您可在对应会议白板上申报议题，具体操作步骤请参阅：[社区会议指南](meeting/meeting-guidance.md#2-如何参与会议)。
 
 ## 2. 参与社区邮件讨论
 

@@ -1,0 +1,6 @@
+name: HPC-competitions
+type: public
+description: ""
+branches:
+  - name: main
+    type: protected
