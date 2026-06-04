@@ -9,7 +9,7 @@
 会议频次：月度，欢迎订阅[TSC邮箱](https://mailweb.hpckit.osinfra.cn/mailman3/lists/tsc.lists.hpckit.osinfra.cn)了解相关会议公告及内容，我们欢迎任何感兴趣的开发者旁听会议。
 
 ## 会议纪要  
-您可以在[TSC会议纪要](https://etherpad.hpckit.osinfra.cn/p/tsc)查看到相关内容，TSC并会在每次会议后将会议纪要发布到tsc@lists.hpckit.osinfra.cn邮件列表中。
+您可以在[TSC会议纪要](https://etherpad.hpckit.osinfra.cn/p/TSC)查看到相关内容，TSC并会在每次会议后将会议纪要发布到tsc@lists.hpckit.osinfra.cn邮件列表中。
 
 ## TSC成员（排名不分先后）
 - 丁肇辉 dingzhaohui@huawei.com [[@dingzhaohui]](https://gitcode.com/dingzhaohui)
