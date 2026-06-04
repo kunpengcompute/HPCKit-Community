@@ -10,7 +10,7 @@
 #### 提交申请
 向技术委员会（TSC）提交新建SIG申请，需要在技术委员会（TSC）例会申报议题，申报议题方式有两种：
 1. 订阅[技术委员会邮箱](https://mailweb.hpckit.osinfra.cn/mailman3/lists/tsc.lists.hpckit.osinfra.cn)，收到例会通知后，直接回复会议邮件，申报会议议题（例：`1. XXX SIG新建申请 -- 申请人：XXX`）。
-2. 直接在技术委员会（TSC）[会议纪要模板](https://etherpad.hpckit.osinfra.cn/p/tsc)进行申报，将相关议题和申报人员信息等刷新到对应例会议题中（例：`1. XXX SIG新建申请 -- 申请人：XXX`）。
+2. 直接在技术委员会（TSC）[会议纪要模板](https://etherpad.hpckit.osinfra.cn/p/TSC)进行申报，将相关议题和申报人员信息等刷新到对应例会议题中（例：`1. XXX SIG新建申请 -- 申请人：XXX`）。
 > 申请模板详见[SIG组申请模板](../templates/SIG组申请模板.pptx)。
 
 ### 1.2 权限配置
@@ -70,7 +70,7 @@
 #### 提交申请
 向技术委员会（TSC）提交新建仓库申请，需要在技术委员会（TSC）例会申报议题，申报议题方式有两种：
 1. 订阅[技术委员会邮箱](https://mailweb.hpckit.osinfra.cn/mailman3/lists/tsc.lists.hpckit.osinfra.cn)，收到例会通知后，直接回复会议邮件，申报会议议题（例：`1. XXX 仓库新建申请 -- 申请人：XXX`）。
-2. 直接在技术委员会（TSC）[会议纪要模板](https://etherpad.hpckit.osinfra.cn/p/tsc)进行申报，将相关议题和申报人员信息等刷新到对应例会议题中（例：`1. XXX 仓库新建申请 -- 申请人：XXX`）。
+2. 直接在技术委员会（TSC）[会议纪要模板](https://etherpad.hpckit.osinfra.cn/p/TSC)进行申报，将相关议题和申报人员信息等刷新到对应例会议题中（例：`1. XXX 仓库新建申请 -- 申请人：XXX`）。
 > 申请模板详见[新建仓申请模板](../templates/新建仓申请模板.pptx)。
 
 ### 4.2 仓库创建与权限配置

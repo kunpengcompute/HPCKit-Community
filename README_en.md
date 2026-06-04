@@ -26,7 +26,7 @@ Welcome to the HPCKit community! We are dedicated to providing the industry with
     <tr>
       <td><div style="text-align: center;">Domain-specific acceleration libraries</div></td>
       <td>Libraries deeply optimized on the Kunpeng platform for specific HPC scenarios, such as quantum chromodynamics and molecular dynamics. By leveraging the architectural features of Kunpeng processors, they significantly enhance application efficiency through instruction-level optimizations, algorithmic restructuring, and parallel acceleration.</td>
-      <td><a href="https://atomgit.com/kunpengcompute/kutacc">kutacc</a> <br> <a href="https://atomgit.com/kunpengcompute/kudnn">kudnn</a> <br> <a href="https://atomgit.com/kunpengcompute/kuqcd">kuqcd</a> <br> <a href="https://atomgit.com/kunpengcompute/sglang">sglang</a></td>
+      <td><a href="https://atomgit.com/kunpengcompute/kutacc">kutacc</a> <br> <a href="https://atomgit.com/kunpengcompute/kudnn">kudnn</a> <br> <a href="https://atomgit.com/kunpengcompute/kuqcd">kuqcd</a></td>
     </tr>
     <tr>
       <td><div style="text-align: center;">Programming framework</div></td>

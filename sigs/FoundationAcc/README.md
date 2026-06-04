@@ -54,7 +54,7 @@
 
 ## 会议通知与会议纪要
 - [会议通知](https://meeting.hpckit.osinfra.cn)
-- [会议纪要](https://etherpad.hpckit.osinfra.cn/p/sig-foundation-acc)
+- [会议纪要](https://etherpad.hpckit.osinfra.cn/p/FoundationAcc)
 
 # SIG订阅
 

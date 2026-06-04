@@ -26,7 +26,7 @@
     <tr>
       <td><div style="text-align: center;">领域加速库</div></td>
       <td>提供针对特定高性能计算场景（如量子色动力学、分子动力学等）在鲲鹏平台上深度优化的加速库。它们利用鲲鹏处理器架构特性，通过指令级优化、算法重构和并行加速等手段，显著提升相应领域应用的运行效率。</td>
-      <td><a href="https://atomgit.com/kunpengcompute/kutacc">kutacc</a> <br> <a href="https://atomgit.com/kunpengcompute/kudnn">kudnn</a> <br> <a href="https://atomgit.com/kunpengcompute/kuqcd">kuqcd</a> <br> <a href="https://atomgit.com/kunpengcompute/sglang">sglang</a></td>
+      <td><a href="https://atomgit.com/kunpengcompute/kutacc">kutacc</a> <br> <a href="https://atomgit.com/kunpengcompute/kudnn">kudnn</a> <br> <a href="https://atomgit.com/kunpengcompute/kuqcd">kuqcd</a></td>
     </tr>
     <tr>
       <td><div style="text-align: center;">编程框架</div></td>
