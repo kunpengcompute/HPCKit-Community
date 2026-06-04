@@ -1,0 +1,21 @@
+name: AI4SApp
+description: "可复用的AI4S端到端实践参考，包含在鲲鹏硬件平台的应用优化，社区开发者可将开源模型拓展到具体应用场景，从而获得可量化的精度/性能收益，共建AI4S开源社区生态"
+mailing_list: ""
+maintainers: 
+  - atomgit_id: jerry-wang-001
+    name: 王哲
+    organization: huawei
+  - atomgit_id: fishm
+    name: 余晨
+    organization: huawei
+  - atomgit_id: tlzzzz
+    name: 赵天伦
+    organization: huawei
+repositories:
+  - repo:
+      - kunpengcompute/sglang
+    committers:
+      - atomgit_id: zycNozomi
+        name: 朱延超
+        organization: huawei
+        email: zhuyanchao1@huawei.com

@@ -34,6 +34,11 @@
       <td><a href="https://atomgit.com/kunpengcompute/kunpeng-extension-for-pytorch">kunpeng-extension-for-pytorch</a></td>
     </tr>
     <tr>
+      <td><div style="text-align: center;">AI4S应用</div></td>
+      <td>提供可复用的AI4S端到端实践参考，包含在鲲鹏硬件平台的应用优化，社区开发者可将开源模型拓展到具体应用场景，从而获得可量化的精度/性能收益，共建AI4S开源社区生态。</td>
+      <td><a href="https://atomgit.com/kunpengcompute/sglang">sglang</a></td>
+    </tr>
+    <tr>
       <td><div style="text-align: center;">示例代码</div></td>
       <td>提供HPCKit最优编程示例代码。</td>
       <td><a href="https://atomgit.com/kunpengcompute/hpckit-sample">hpckit-sample</a> <br> <a href="https://atomgit.com/kunpengcompute/DeepSeek-V3-Sample">DeepSeek-V3-Sample</a></td>

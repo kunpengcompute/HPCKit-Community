@@ -34,6 +34,11 @@ Welcome to the HPCKit community! We are dedicated to providing the industry with
       <td><a href="https://atomgit.com/kunpengcompute/kunpeng-extension-for-pytorch">kunpeng-extension-for-pytorch</a></td>
     </tr>
     <tr>
+      <td><div style="text-align: center;">AI4S applications</div></td>
+      <td>Provide reusable, end-to-end AI4S best practices, including application optimizations on the Kunpeng hardware platform. This empowers community developers to adapt open-source models to specific use cases, delivering quantifiable gains in accuracy and performance, and ultimately fostering a thriving AI4S open-source ecosystem.</td>
+      <td><a href="https://atomgit.com/kunpengcompute/sglang">sglang</a></td>
+    </tr>
+    <tr>
       <td><div style="text-align: center;">Example code</div></td>
       <td>Optimal HPCKit programming examples.</td>
       <td><a href="https://atomgit.com/kunpengcompute/hpckit-sample">hpckit-sample</a> <br> <a href="https://atomgit.com/kunpengcompute/DeepSeek-V3-Sample">DeepSeek-V3-Sample</a></td>
