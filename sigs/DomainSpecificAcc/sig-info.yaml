@@ -52,10 +52,3 @@ repositories:
         name: 赵天伦
         organization: huawei
         email: zhaotianlun1@huawei.com
-  - repo:
-      - kunpengcompute/sglang
-    committers:
-      - atomgit_id: zycNozomi
-        name: 朱延超
-        organization: huawei
-        email: zhuyanchao1@huawei.com
