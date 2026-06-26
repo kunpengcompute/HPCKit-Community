@@ -31,12 +31,17 @@
     <tr>
       <td><div style="text-align: center;">编程框架</div></td>
       <td>提供基于鲲鹏平台优化的编程框架。</td>
-      <td><a href="https://atomgit.com/kunpengcompute/kunpeng-extension-for-pytorch">kunpeng-extension-for-pytorch</a></td>
+      <td><a href="https://atomgit.com/kunpengcompute/kunpeng-extension-for-pytorch">kunpeng-extension-for-pytorch</a> <br> <a href="https://atomgit.com/kunpengcompute/sglang">sglang</a></td>
+    </tr>
+    <tr>
+      <td><div style="text-align: center;">AI辅助</div></td>
+      <td>聚焦AI辅助研发，致力于将晦涩的代码转化为可复制的实战经验与框架，打造规范化、可持续的领域专家社区影响力生态。</td>
+      <td></td>
     </tr>
     <tr>
       <td><div style="text-align: center;">AI4S应用</div></td>
       <td>提供可复用的AI4S端到端实践参考，包含在鲲鹏硬件平台的应用优化，社区开发者可将开源模型拓展到具体应用场景，从而获得可量化的精度/性能收益，共建AI4S开源社区生态。</td>
-      <td><a href="https://atomgit.com/kunpengcompute/sglang">sglang</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><div style="text-align: center;">示例代码</div></td>

@@ -76,7 +76,7 @@
 ### 4.2 仓库创建与权限配置
  SIG 发起人需修改 Kunpeng/HPCKit-Community 仓库, 配置仓库信息。
 
-（1）在 sigs/<SIG名称>/kunpengcompute 目录下，找到以代码仓首字母为名（不区分大小写，文件夹名均为小写）的文件目录；如果不存在该文件目录，则新建以代码仓首字母为名的文件目录，并在该目录中创建 <仓库名称>.yaml 文件，参考[仓库配置编写指南](../sigs/sig-info-guidance.md#仓库配置信息)，配置仓库信息；
+（1）在 sigs/<SIG名称>/kunpengcompute 目录下创建 <仓库名称>.yaml 文件，参考[仓库配置编写指南](../sigs/sig-info-guidance.md#仓库配置信息)，配置仓库信息；
 
 （2）提交 PR：提交 PR 至 main 分支（PR描述中需要附加评审纪要）；
 
