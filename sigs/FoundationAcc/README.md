@@ -1,4 +1,4 @@
-# FoundationACC SIG
+# FoundationAcc SIG
 
 ## 概述
 基础加速库领域相关的兴趣小组，负责提供基于鲲鹏平台优化的基础加速库。
