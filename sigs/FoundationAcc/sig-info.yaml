@@ -52,3 +52,17 @@ repositories:
         name: 刘建国
         organization: huawei
         email: liujianguo14@huawei.com
+  - repo:
+      - kunpengcompute/hpckit-packtool
+    committers:
+      - atomgit_id: liujianguo_hpc
+        name: 刘建国
+        organization: huawei
+        email: liujianguo14@huawei.com
+  - repo:
+      - kunpengcompute/hpckit-testsuite
+    committers:
+      - atomgit_id: liujianguo_hpc
+        name: 刘建国
+        organization: huawei
+        email: liujianguo14@huawei.com
