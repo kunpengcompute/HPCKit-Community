@@ -34,7 +34,7 @@
       <td><a href="https://atomgit.com/kunpengcompute/kunpeng-extension-for-pytorch">kunpeng-extension-for-pytorch</a> <br> <a href="https://atomgit.com/kunpengcompute/sglang">sglang</a></td>
     </tr>
     <tr>
-      <td><div style="text-align: center;">AI辅助</div></td>
+      <td><div style="text-align: center;">AI辅助开发</div></td>
       <td>聚焦AI辅助研发，致力于将晦涩的代码转化为可复制的实战经验与框架，打造规范化、可持续的领域专家社区影响力生态。</td>
       <td></td>
     </tr>
