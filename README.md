@@ -78,8 +78,9 @@ HPCKit 社区采用分层协作的治理模式，当前架构主要包括以下�
 - [基础贡献](contributor/basic-contribution.md)：包含参与社区会议、社区邮件讨论、提交 Issue 、处理 Issue 任务、提交PR等。
 - [进阶贡献](contributor/advanced-contribution.md)：包含新建 SIG、成为核心贡献者、组织会议、新建仓库、引入开源软件、发布新版本或新仓库等。
 
-## 5. 联系我们
+## 5. 社区动态
 
+- [社区会议日历](https://meeting.hpckit.osinfra.cn/)：如果您想深入参与HPCKit社区建设，了解社区下一步技术规划，可访问社区会议日历，参与社区讨论。
 - [社区邮件订阅](https://mailweb.hpckit.osinfra.cn/postorius/lists)：选择需要订阅的组织（TSC/SIG等），填写相关信息，进行邮件订阅（邮件推送内容包含：会议通知、会议纪要、内容讨论等），如果您对相关组织有诉求或者问题，也可以通过邮箱途径联系。
 
 ## 6. 相关链接
