@@ -66,3 +66,10 @@ repositories:
         name: 刘建国
         organization: huawei
         email: liujianguo14@huawei.com
+  - repo:
+      - kunpengcompute/hpckit-autotest
+    committers:
+      - atomgit_id: lindengfeng
+        name: 林登峰
+        organization: huawei
+        email: lindengfeng2@h-partners.com
