@@ -31,12 +31,12 @@ Welcome to the HPCKit community! We are dedicated to providing the industry with
     <tr>
       <td><div style="text-align: center;">Programming framework</div></td>
       <td>Programming framework optimized for the Kunpeng platform.</td>
-      <td><a href="https://atomgit.com/kunpengcompute/kunpeng-extension-for-pytorch">kunpeng-extension-for-pytorch</a></td>
+      <td><a href="https://atomgit.com/kunpengcompute/kunpeng-extension-for-pytorch">kunpeng-extension-for-pytorch</a> <br> <a href="https://atomgit.com/kunpengcompute/sglang">sglang</a></td>
     </tr>
     <tr>
       <td><div style="text-align: center;">AI4S applications</div></td>
       <td>Provide reusable, end-to-end AI4S best practices, including application optimizations on the Kunpeng hardware platform. This empowers community developers to adapt open-source models to specific use cases, delivering quantifiable gains in accuracy and performance, and ultimately fostering a thriving AI4S open-source ecosystem.</td>
-      <td><a href="https://atomgit.com/kunpengcompute/sglang">sglang</a></td>
+      <td><a href="https://atomgit.com/kunpengcompute/alphafold3">alphafold3</a></td>
     </tr>
     <tr>
       <td><div style="text-align: center;">Scientific Computing & Numerical Simulation</div></td>
