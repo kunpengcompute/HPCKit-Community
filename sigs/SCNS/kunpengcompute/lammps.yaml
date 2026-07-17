@@ -1,0 +1,6 @@
+name: lammps
+type: public
+description: ""
+branches:
+  - name: main
+    type: protected

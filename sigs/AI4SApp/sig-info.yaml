@@ -19,3 +19,10 @@ repositories:
         name: 朱延超
         organization: huawei
         email: zhuyanchao1@huawei.com
+  - repo:
+      - kunpengcompute/alphafold3
+    committers:
+      - atomgit_id: tlzzzz
+        name: 赵天伦
+        organization: huawei
+        email: zhaotianlun1@huawei.com
