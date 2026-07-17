@@ -44,8 +44,8 @@
       <td><a href="https://atomgit.com/kunpengcompute/sglang">sglang</a> <br> <a href="https://atomgit.com/kunpengcompute/alphafold3">alphafold3</a></td>
     </tr>
     <tr>
-      <td><div style="text-align: center;">科学计算与数值模拟</div></td>
-      <td>提供基于鲲鹏硬件调优的开源应用源码及其鲲鹏编译运行指导。</td>
+      <td><div style="text-align: center;">科学计算与数值模拟应用</div></td>
+      <td>提供基于鲲鹏硬件调优的开源科学计算与数值模拟应用源码，及其鲲鹏编译运行指导。</td>
       <td><a href="https://atomgit.com/kunpengcompute/lammps">lammps</a></td>
     </tr>
     <tr>
