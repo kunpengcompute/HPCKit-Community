@@ -1,0 +1,21 @@
+name: SCNS
+description: "提供基于鲲鹏硬件调优的开源应用源码及其鲲鹏编译运行指导"
+mailing_list: ""
+maintainers:
+  - atomgit_id: lee_hw
+    name: 李思聪
+    organization: huawei
+  - atomgit_id: zqrer
+    name: 张倩茹
+    organization: huawei
+  - atomgit_id: tlzzzz
+    name: 赵天伦
+    organization: huawei
+repositories:
+  - repo:
+      - kunpengcompute/lammps
+    committers:
+      - atomgit_id: tlzzzz
+        name: 赵天伦
+        organization: huawei
+        email: zhaotianlun1@huawei.com

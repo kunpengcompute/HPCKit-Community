@@ -31,7 +31,7 @@
     <tr>
       <td><div style="text-align: center;">编程框架</div></td>
       <td>提供基于鲲鹏平台优化的编程框架。</td>
-      <td><a href="https://atomgit.com/kunpengcompute/kunpeng-extension-for-pytorch">kunpeng-extension-for-pytorch</a> <br> <a href="https://atomgit.com/kunpengcompute/sglang">sglang</a></td>
+      <td><a href="https://atomgit.com/kunpengcompute/kunpeng-extension-for-pytorch">kunpeng-extension-for-pytorch</a></td>
     </tr>
     <tr>
       <td><div style="text-align: center;">AI辅助开发</div></td>
@@ -41,7 +41,12 @@
     <tr>
       <td><div style="text-align: center;">AI4S应用</div></td>
       <td>提供可复用的AI4S端到端实践参考，包含在鲲鹏硬件平台的应用优化，社区开发者可将开源模型拓展到具体应用场景，从而获得可量化的精度/性能收益，共建AI4S开源社区生态。</td>
-      <td></td>
+      <td><a href="https://atomgit.com/kunpengcompute/sglang">sglang</a> <br> <a href="https://atomgit.com/kunpengcompute/alphafold3">alphafold3</a></td>
+    </tr>
+    <tr>
+      <td><div style="text-align: center;">科学计算与数值模拟</div></td>
+      <td>提供基于鲲鹏硬件调优的开源应用源码及其鲲鹏编译运行指导。</td>
+      <td><a href="https://atomgit.com/kunpengcompute/lammps">lammps</a></td>
     </tr>
     <tr>
       <td><div style="text-align: center;">示例代码</div></td>

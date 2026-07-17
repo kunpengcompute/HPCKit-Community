@@ -39,6 +39,11 @@ Welcome to the HPCKit community! We are dedicated to providing the industry with
       <td><a href="https://atomgit.com/kunpengcompute/sglang">sglang</a></td>
     </tr>
     <tr>
+      <td><div style="text-align: center;">Scientific Computing & Numerical Simulation</div></td>
+      <td>Provide open-source application code optimized for Kunpeng hardware, along with compilation and execution guidelines for the Kunpeng platform.</td>
+      <td><a href="https://atomgit.com/kunpengcompute/lammps">lammps</a></td>
+    </tr>
+    <tr>
       <td><div style="text-align: center;">Example code</div></td>
       <td>Optimal HPCKit programming examples.</td>
       <td><a href="https://atomgit.com/kunpengcompute/hpckit-sample">hpckit-sample</a> <br> <a href="https://atomgit.com/kunpengcompute/DeepSeek-V3-Sample">DeepSeek-V3-Sample</a></td>
