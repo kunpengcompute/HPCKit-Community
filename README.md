@@ -88,7 +88,11 @@ HPCKit 社区采用分层协作的治理模式，当前架构主要包括以下�
 - [社区会议日历](https://meeting.hpckit.osinfra.cn/)：如果您想深入参与HPCKit社区建设，了解社区下一步技术规划，可访问社区会议日历，参与社区讨论。
 - [社区邮件订阅](https://mailweb.hpckit.osinfra.cn/postorius/lists)：选择需要订阅的组织（TSC/SIG等），填写相关信息，进行邮件订阅（邮件推送内容包含：会议通知、会议纪要、内容讨论等），如果您对相关组织有诉求或者问题，也可以通过邮箱途径联系。
 
-## 6. 相关链接
+## 6. 学习资料
+
+- [鲲鹏HPC文档](https://www.hikunpeng.com/document/detail/zh/kunpenghpcs/overview/index.html)：含HPC行业应用介绍、HPCKit相关指南、鲲鹏920专业版系统开发手册等资料。
+
+## 7. 相关链接
 
 - [鲲鹏社区（HPC专区）](https://www.hikunpeng.com/developer/hpc)
 - [鲲鹏论坛（HPC专区）](https://www.hikunpeng.com/forum/forum-0187135482144798003-1.html)
