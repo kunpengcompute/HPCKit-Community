@@ -1,0 +1,15 @@
+name: ClusterScheduling
+description: "提供面向鲲鹏 HPC 集群调度场景的生态与功能扩展，便于使用者快速完成调度适配"
+mailing_list: ""
+maintainers: 
+  - atomgit_id: ZFF19
+    name: 周风帆
+    organization: huawei
+repositories:
+  - repo:
+      - kunpengcompute/donau-extensions
+    committers:
+      - atomgit_id: ZFF19
+        name: 周风帆
+        organization: huawei
+        email: zhoufengfan@huawei.com
