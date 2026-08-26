@@ -1,0 +1,6 @@
+name: donau-extensions
+type: public
+description: ""
+branches:
+  - name: main
+    type: protected
