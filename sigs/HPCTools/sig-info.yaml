@@ -1,7 +1,16 @@
 name: HPCTools
 description: "聚焦 HPC 集群环境管理，提供轻量、可组合的工具、打通交付、运维与管理环节，降低管理复杂度，提升效率与易用性。"
 mailing_list: ""
-maintainers: 
+maintainers:
+  - atomgit_id: aureliano_kp
+    name: 刘子安
+    organization: huawei
+  - atomgit_id: le1239
+    name: 张宇航
+    organization: huawei
+  - atomgit_id: wmrd
+    name: 吴华建
+    organization: huawei
   - atomgit_id: ZFF19
     name: 周风帆
     organization: huawei
@@ -9,6 +18,18 @@ repositories:
   - repo:
       - kunpengcompute/kunpeng-spack-packages
     committers:
+      - atomgit_id: aureliano_kp
+        name: 刘子安
+        organization: huawei
+        email: liuzian6@huawei.com
+      - atomgit_id: le1239
+        name: 张宇航
+        organization: huawei
+        email: zhangyuhang45@huawei.com
+      - atomgit_id: wmrd
+        name: 吴华建
+        organization: huawei
+        email: wuhuajian@h-partners.com
       - atomgit_id: ZFF19
         name: 周风帆
         organization: huawei

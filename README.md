@@ -35,12 +35,12 @@
     </tr>
     <tr>
       <td><div style="text-align: center;">AI辅助开发</div></td>
-      <td>聚焦AI辅助研发，致力于将晦涩的代码转化为可复制的实战经验与框架，打造规范化、可持续的领域专家社区影响力生态。</td>
+      <td>聚焦 AI 辅助研发，致力于将晦涩的代码转化为可复制的实战经验与框架，打造规范化、可持续的领域专家社区影响力生态。</td>
       <td></td>
     </tr>
     <tr>
       <td><div style="text-align: center;">AI4S应用</div></td>
-      <td>提供可复用的AI4S端到端实践参考，包含在鲲鹏硬件平台的应用优化，社区开发者可将开源模型拓展到具体应用场景，从而获得可量化的精度/性能收益，共建AI4S开源社区生态。</td>
+      <td>提供可复用的 AI4S 端到端实践参考，包含在鲲鹏硬件平台的应用优化，社区开发者可将开源模型拓展到具体应用场景，从而获得可量化的精度/性能收益，共建 AI4S 开源社区生态。</td>
       <td><a href="https://atomgit.com/kunpengcompute/alphafold3">alphafold3</a></td>
     </tr>
     <tr>
@@ -49,8 +49,18 @@
       <td><a href="https://atomgit.com/kunpengcompute/lammps">lammps</a></td>
     </tr>
     <tr>
+      <td><div style="text-align: center;">集群调度</div></td>
+      <td>提供面向鲲鹏 HPC 集群调度场景的生态与功能扩展，便于使用者快速完成调度适配。</td>
+      <td><a href="https://atomgit.com/kunpengcompute/donau-extensions">donau-extensions</a></td>
+    </tr>
+    <tr>
+      <td><div style="text-align: center;">HPC工具</div></td>
+      <td>聚焦 HPC 集群环境管理，提供轻量、可组合的工具、打通交付、运维与管理环节，降低管理复杂度，提升效率与易用性。</td>
+      <td><a href="https://atomgit.com/kunpengcompute/donau-extensions">donau-extensions</a></td>
+    </tr>
+    <tr>
       <td><div style="text-align: center;">示例代码</div></td>
-      <td>提供HPCKit最优编程示例代码。</td>
+      <td>提供 HPCKit 最优编程示例代码。</td>
       <td><a href="https://atomgit.com/kunpengcompute/hpckit-sample">hpckit-sample</a> <br> <a href="https://atomgit.com/kunpengcompute/DeepSeek-V3-Sample">DeepSeek-V3-Sample</a></td>
     </tr>
   </tbody>
