@@ -44,6 +44,16 @@ Welcome to the HPCKit community! We are dedicated to providing the industry with
       <td><a href="https://atomgit.com/kunpengcompute/lammps">lammps</a></td>
     </tr>
     <tr>
+      <td><div style="text-align: center;">Cluster Scheduling</div></td>
+      <td>Provide ecosystem and functional extensions for Kunpeng HPC cluster scheduling scenarios, making it easy for users to quickly complete scheduling adaptation.</td>
+      <td><a href="https://atomgit.com/kunpengcompute/donau-extensions">donau-extensions</a></td>
+    </tr>
+    <tr>
+      <td><div style="text-align: center;">HPC Tools</div></td>
+      <td>Focuse on HPC cluster environment management, provide lightweight, composable tools that streamline delivery, operation, and management processes, reducing management complexity and improving efficiency and ease of use.</td>
+      <td><a href="https://atomgit.com/kunpengcompute/donau-extensions">donau-extensions</a></td>
+    </tr>
+    <tr>
       <td><div style="text-align: center;">Example code</div></td>
       <td>Optimal HPCKit programming examples.</td>
       <td><a href="https://atomgit.com/kunpengcompute/hpckit-sample">hpckit-sample</a> <br> <a href="https://atomgit.com/kunpengcompute/DeepSeek-V3-Sample">DeepSeek-V3-Sample</a></td>

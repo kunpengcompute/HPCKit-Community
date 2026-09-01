@@ -1,9 +1,12 @@
 name: ClusterScheduling
 description: "提供面向鲲鹏 HPC 集群调度场景的生态与功能扩展，便于使用者快速完成调度适配"
 mailing_list: ""
-maintainers: 
+maintainers:
   - atomgit_id: ZFF19
     name: 周风帆
+    organization: huawei
+  - atomgit_id: luowengang
+    name: 袁航
     organization: huawei
 repositories:
   - repo:
@@ -13,3 +16,7 @@ repositories:
         name: 周风帆
         organization: huawei
         email: zhoufengfan@huawei.com
+      - atomgit_id: luowengang
+        name: 袁航
+        organization: huawei
+        email: yuanhang@huawei.com
