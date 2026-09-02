@@ -4,3 +4,5 @@ description: ""
 branches:
   - name: main
     type: protected
+  - name: developer
+    type: protected
