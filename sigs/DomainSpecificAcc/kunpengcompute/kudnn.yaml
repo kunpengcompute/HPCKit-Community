@@ -6,3 +6,4 @@ branches:
     type: protected
   - name: developer
     type: protected
+    create_from: main
