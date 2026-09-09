@@ -34,3 +34,10 @@ repositories:
         name: 周风帆
         organization: huawei
         email: zhoufengfan@huawei.com
+  - repo:
+      - kunpengcompute/kunpeng-hpc-pilot
+    committers:
+      - atomgit_id: louhongxiang
+        name: 娄宏翔
+        organization: huawei
+        email: louhongxiang@huawei.com
