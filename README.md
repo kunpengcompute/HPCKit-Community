@@ -56,7 +56,7 @@
     <tr>
       <td><div style="text-align: center;">HPC工具</div></td>
       <td>聚焦 HPC 集群环境管理，提供轻量、可组合的工具、打通交付、运维与管理环节，降低管理复杂度，提升效率与易用性。</td>
-      <td><a href="https://atomgit.com/kunpengcompute/donau-extensions">donau-extensions</a></td>
+      <td><a href="https://atomgit.com/kunpengcompute/kunpeng-spack-packages">kunpeng-spack-packages</a></td>
     </tr>
     <tr>
       <td><div style="text-align: center;">示例代码</div></td>
