@@ -1,0 +1,6 @@
+name: kunpeng-hpc-pilot
+type: public
+description: "HPC交付及运行工具合集，包括系统基础配置、节点巡检、性能测试、第三方服务安装等脚本。"
+branches:
+  - name: main
+    type: protected
