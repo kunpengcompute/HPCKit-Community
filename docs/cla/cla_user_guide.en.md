@@ -8,7 +8,7 @@
 ![alt text](images/image1.png)
 
 <a id="hpckit-homepage"></a>
-## [👉 HPCKit Community CLA Signing Homepage](https://clasign.osinfra.cn/sign/68cbd4a3dbabc050b436cdd4)
+## [👉 HPCKit Community CLA Signing Homepage](https://clasign.osinfra.cn/sign/69ca19493107795d582d07fc)
 
 ![alt text](images/image-2.png)
 
@@ -18,7 +18,7 @@ Based on your identity, select the corresponding operation process. This is the 
 <a id="personal-contributor"></a>
 ## 🤔 I am an individual developer, contributing for myself
 
-### [👉 Sign Individual CLA](https://clasign.osinfra.cn/sign-cla/68cbd4a3dbabc050b436cdd4/individual)
+### [👉 Sign Individual CLA](https://clasign.osinfra.cn/sign-cla/69ca19493107795d582d07fc/individual)
 
 ![alt text](images/image-3.png)
 
@@ -58,7 +58,7 @@ If you use a corporate email, and the company corresponding to that email domain
 <a id="employee-contributor"></a>
 ## 🏢 I am a corporate employee, contributing on behalf of the company
 
-### [👉 Corporate Contributor Registration](https://clasign.osinfra.cn/sign-cla/68cbd4a3dbabc050b436cdd4/employee)
+### [👉 Corporate Contributor Registration](https://clasign.osinfra.cn/sign-cla/69ca19493107795d582d07fc/employee)
 
 ![alt text](images/image-4.png)
 
@@ -91,7 +91,7 @@ If you use a corporate email, and the company corresponding to that email domain
 <a id="company-representative"></a>
 ## 🏛️ I am a corporate representative, needing to sign the CLA for the company
 
-### [👉 Sign Corporate CLA](https://clasign.osinfra.cn/sign-cla/68cbd4a3dbabc050b436cdd4/corporation)
+### [👉 Sign Corporate CLA](https://clasign.osinfra.cn/sign-cla/69ca19493107795d582d07fc/corporation)
 
 ![alt text](images/image-5.png) 
 
@@ -126,7 +126,7 @@ If you use a corporate email, and the company corresponding to that email domain
 <a id="company-manager"></a>
 ## 👥 I am a corporate administrator, responsible for approving employee contribution permissions
 
-### [👉 Corporate Administrator](https://clasign.osinfra.cn/corporation-manager-login/68cbd4a3dbabc050b436cdd4)
+### [👉 Corporate Administrator](https://clasign.osinfra.cn/corporation-manager-login/69ca19493107795d582d07fc)
 
 
 ![alt text](images/image-8.png)

@@ -89,7 +89,7 @@ HPCKit 社区采用分层协作的治理模式，当前架构主要包括以下�
 
 ## 4. 参与贡献
 
-- [签署CLA](https://clasign.osinfra.cn/sign/69ca19493107795d582d07fc)：签署个人/法人 CLA。
+- [签署CLA](https://clasign.osinfra.cn/sign/69ca19493107795d582d07fc)：签署个人/法人 CLA，签署流程及常见问题请参阅 [CLA 使用指南](docs/cla/cla使用指南.md)。
 - [基础贡献](contributor/basic-contribution.md)：包含参与社区会议、社区邮件讨论、提交 Issue 、处理 Issue 任务、提交PR等。
 - [进阶贡献](contributor/advanced-contribution.md)：包含新建 SIG、成为核心贡献者、组织会议、新建仓库、引入开源软件、发布新版本或新仓库等。
 

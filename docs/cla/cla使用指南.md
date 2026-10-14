@@ -8,7 +8,7 @@
 ![alt text](images/image1.png)
 
 <a id="hpckit-homepage"></a>
-## [👉 HPCKit社区CLA签署首页](https://clasign.osinfra.cn/sign/68cbd4a3dbabc050b436cdd4)
+## [👉 HPCKit社区CLA签署首页](https://clasign.osinfra.cn/sign/69ca19493107795d582d07fc)
 
 ![alt text](images/image-2.png)
 
@@ -18,7 +18,7 @@
 <a id="personal-contributor"></a>
 ## 🤔 我是个人开发者，为自己做贡献
 
-### [👉 签署个人CLA](https://clasign.osinfra.cn/sign-cla/68cbd4a3dbabc050b436cdd4/individual)
+### [👉 签署个人CLA](https://clasign.osinfra.cn/sign-cla/69ca19493107795d582d07fc/individual)
 
 ![alt text](images/image-3.png)
 
@@ -58,7 +58,7 @@
 <a id="employee-contributor"></a>
 ## 🏢 我是企业员工，代表公司做贡献
 
-### [👉 法人贡献者登记](https://clasign.osinfra.cn/sign-cla/68cbd4a3dbabc050b436cdd4/employee)
+### [👉 法人贡献者登记](https://clasign.osinfra.cn/sign-cla/69ca19493107795d582d07fc/employee)
 
 ![alt text](images/image-4.png)
 
@@ -91,7 +91,7 @@
 <a id="company-representative"></a>
 ## 🏛️ 我是企业代表，需要为公司签署 CLA
 
-### [👉 签署法人CLA](https://clasign.osinfra.cn/sign-cla/68cbd4a3dbabc050b436cdd4/corporation)
+### [👉 签署法人CLA](https://clasign.osinfra.cn/sign-cla/69ca19493107795d582d07fc/corporation)
 
 ![alt text](images/image-5.png) 
 
@@ -115,7 +115,7 @@
 ![alt text](images/image-7.png)
 
 3.  **设置公司的审批人员（至关重要！超级管理员和普通管理员不能是同一个账号）**
-    - 超级管理员在签署页面点击 [企业管理员](https://clasign.osinfra.cn/corporation-manager-login/68cbd4a3dbabc050b436cdd4) 按钮进入到超级管理员登录页面，使用之前获得的**超级管理员**帐号的用户名及初始密码进行登录（记得更新密码）
+    - 超级管理员在签署页面点击 [企业管理员](https://clasign.osinfra.cn/corporation-manager-login/69ca19493107795d582d07fc) 按钮进入到超级管理员登录页面，使用之前获得的**超级管理员**帐号的用户名及初始密码进行登录（记得更新密码）
     - 作为超级管理员，您的首要任务是：**立即为公司创建几位「普通管理员」**（例如各研发团队的负责人），将 **审批员工申请** 的日常工作分配给他们，以确保公司内部的 CLA 流程顺畅
     - 普通管理员也会收到一封包含了**普通管理员**帐号的用户名及初始密码的邮件，其登录流程与超级管理员一致，
     - 之后，你就可以让你的员工进行法人贡献者登记了，然后让普通管理员进行审批了。
@@ -126,7 +126,7 @@
 <a id="company-manager"></a>
 ## 👥 我是企业管理员，负责审批员工贡献权限
 
-### [👉 企业管理员](https://clasign.osinfra.cn/corporation-manager-login/68cbd4a3dbabc050b436cdd4)
+### [👉 企业管理员](https://clasign.osinfra.cn/corporation-manager-login/69ca19493107795d582d07fc)
 
 
 ![alt text](images/image-8.png)
