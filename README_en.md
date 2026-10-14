@@ -84,7 +84,7 @@ Before contributing to the community, please carefully read and comply with the 
 
 ## 4. Contributing
 
-- [Signing the CLA](https://clasign.osinfra.cn/sign/69ca19493107795d582d07fc): Sign the individual or corporate Contributor License Agreement (CLA).
+- [Signing the CLA](https://clasign.osinfra.cn/sign/69ca19493107795d582d07fc): Sign the individual or corporate Contributor License Agreement (CLA). For the signing process and FAQs, see the [CLA User Guide](docs/cla/cla_user_guide.en.md).
 - [Basic contributions](contributor/basic-contribution.md): Includes participating in community meetings, engaging in email discussions, submitting issues, handling issues, and submitting pull requests.
 - [Advanced contributions](contributor/advanced-contribution.md): Includes creating SIGs, becoming a core contributor, organizing meetings, creating repositories, introducing open-source software, and releasing new versions or repositories.
 
