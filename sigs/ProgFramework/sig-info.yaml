@@ -20,3 +20,25 @@ repositories:
         name: 朱延超
         organization: huawei
         email: zhuyanchao1@huawei.com
+  - repo:
+      - kunpengcompute/eigen
+    committers:
+      - atomgit_id: Rongningtao
+        name: 戎宁涛
+        organization: huawei
+        email: rongningtao@huawei.com
+      - atomgit_id: buzean
+        name: 卜泽安
+        organization: huawei
+        email: buzean1@huawei.com
+  - repo:
+      - kunpengcompute/numpy
+    committers:
+      - atomgit_id: Rongningtao
+        name: 戎宁涛
+        organization: huawei
+        email: rongningtao@huawei.com
+      - atomgit_id: buzean
+        name: 卜泽安
+        organization: huawei
+        email: buzean1@huawei.com

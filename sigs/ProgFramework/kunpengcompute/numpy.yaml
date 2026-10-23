@@ -1,0 +1,6 @@
+name: numpy
+type: private
+description: ""
+branches:
+  - name: main
+    type: protected
