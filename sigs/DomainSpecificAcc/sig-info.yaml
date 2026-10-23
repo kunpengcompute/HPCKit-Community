@@ -19,6 +19,10 @@ repositories:
         name: 刘建国
         organization: huawei
         email: liujianguo14@huawei.com
+      - atomgit_id: hoyt0
+        name: 侯宇腾
+        organization: huawei
+        email: houyuteng@huawei.com
   - repo:
       - kunpengcompute/kuqcd
     committers:
