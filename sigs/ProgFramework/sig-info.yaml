@@ -42,3 +42,14 @@ repositories:
         name: 卜泽安
         organization: huawei
         email: buzean1@huawei.com
+  - repo:
+      - kunpengcompute/kml_adapter
+    committers:
+      - atomgit_id: Rongningtao
+        name: 戎宁涛
+        organization: huawei
+        email: rongningtao@huawei.com
+      - atomgit_id: buzean
+        name: 卜泽安
+        organization: huawei
+        email: buzean1@huawei.com
