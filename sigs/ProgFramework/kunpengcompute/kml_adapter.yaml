@@ -1,0 +1,6 @@
+name: kml_adapter
+type: private
+description: ""
+branches:
+  - name: main
+    type: protected
